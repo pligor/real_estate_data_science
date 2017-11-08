@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" baseProfile="basic" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 320 320" xml:space="preserve">
+<g>
+	<polygon opacity="0.15" fill="#FFFFFF" points="0,0 320,0 318,2 2,2 1.8,318 0,320 	"/>
+	<line opacity="0.15" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" x1="0" y1="0" x2="320" y2="320"/>
+	<line opacity="0.15" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" x1="320" y1="0" x2="0" y2="320"/>
+</g>
+</svg>
