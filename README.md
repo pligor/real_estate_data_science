@@ -1,3 +1,6 @@
+# Feedback from AKQA company in London:
+"Georgios Pligoropoulos has very strong technical skills and could bring this to the Data Science position" - Jesus Rogel, Principal Data Scientist at AKQA
+
 ![image](https://s20.postimg.org/anccllla5/Data_Science_of_Real_Estate_data-0.png)
 ![image](https://s20.postimg.org/ewh2nr1e5/Data_Science_of_Real_Estate_data-1.png)
 ![image](https://s20.postimg.org/tsflvd7nx/Data_Science_of_Real_Estate_data-2.png)
